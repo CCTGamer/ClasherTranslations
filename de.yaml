@@ -52,7 +52,7 @@ players_clan_role_elder: Ältester
 players_clan_role_member: Mitglied
 players_clanCapitalContributions: Stadtgold beigetragen
 players_clan_FullClanInfo: vollständige Clan Informationen
-players_achievements_title: Erfolge
+players_achievements_title: Erfolge von {name}
 players_achievements_site: Seite {page} von {total_pages}
 players_achievement_name_BiggerCoffers: Größere Kassen
-players_achievement_info_BiggerCoffers: Rüste ein Goldlager auf Level 10 auf
+players_achievement_info_BiggerCoffers: Rüste ein Goldlager auf Level {target} auf
