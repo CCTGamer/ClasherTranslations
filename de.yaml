@@ -30,6 +30,8 @@ players_select_option_clan_name: Clan
 players_select_option_clan_description: Zeigt Informationen über den Clan des Spielers an.
 players_select_option_achievements_name: Erfolge
 players_select_option_achievements_description: Zeigt die Erfolge des Spielers an.
+players_select_option_troops_name: Truppen
+players_select_option_troops_description: Zeigt Informationen über die Truppen des Spielers an.
 players_general_townHallLevel: Rathaus
 players_general_expLevel: Erfahrung
 players_general_level: Level
@@ -54,3 +56,7 @@ players_clanCapitalContributions: Stadtgold beigetragen
 players_clan_FullClanInfo: vollständige Clan Informationen
 players_achievements_title: Erfolge von {name}
 players_achievements_site: Seite {page} von {total_pages}
+player_troops_title: Truppen von {name}
+player_troops_village_home: Dorf
+player_troops_village_builderBase: Bauarbeiterbasis
+player_troops_village_clanCapital: Stadt
